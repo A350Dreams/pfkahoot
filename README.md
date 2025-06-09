@@ -70,5 +70,4 @@
   </script>
 </body>
 </html>
-<!-- This code provides a simple login interface for PFKahoot! -->
-<!-- It includes email/password login, Google and Discord login options, and displays user info after login. -->
+<!-- This code provides a simple login interface for PFKahoot! 
