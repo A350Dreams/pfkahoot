@@ -26,7 +26,7 @@
       </button>
     </div>
 
-    <p class="text-center text-sm mt-4">Don't have an account? <a href="#" class="text-blue-600">Sign up</a></p>
+    <p class="text-center text-sm mt-4">Don't have an account? <a href="https://a350dreams.github.io/pfkahoot-signup/" class="text-blue-600">Sign up</a></p>
   </div>
 
   <div id="userInfo" class="hidden text-center">
